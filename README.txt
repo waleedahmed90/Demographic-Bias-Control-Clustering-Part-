@@ -35,8 +35,8 @@ OUTPUT FOLDER###############: [Clusters_TrendUsage_Demographics]
 1) [Hashtag_Demographics(3months)]#####################(92 Files)
 2) [hashtag_Usage_Info(3months)]#######################(92 Files)
 
-These two datasets are available on request
-Please write at waleed.wsd@gmail.com
+These two datasets are a property of Max Planck Institute for Software Systems (Saarbrücken) and are available on request
+Write at waleed.wsd@gmail.com
 
 
 
