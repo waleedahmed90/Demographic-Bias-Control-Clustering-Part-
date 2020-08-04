@@ -1,0 +1,907 @@
+Total Files:  92
+File Number:  1
+Name:  hashtagDemographics_2018-11-01.gz
+File Number:  2
+Name:  hashtagDemographics_2018-11-02.gz
+File Number:  3
+Name:  hashtagDemographics_2018-11-03.gz
+File Number:  4
+Name:  hashtagDemographics_2018-11-04.gz
+File Number:  5
+Name:  hashtagDemographics_2018-11-05.gz
+File Number:  6
+Name:  hashtagDemographics_2018-11-06.gz
+File Number:  7
+Name:  hashtagDemographics_2018-11-07.gz
+File Number:  8
+Name:  hashtagDemographics_2018-11-08.gz
+File Number:  9
+Name:  hashtagDemographics_2018-11-09.gz
+File Number:  10
+Name:  hashtagDemographics_2018-11-10.gz
+File Number:  11
+Name:  hashtagDemographics_2018-11-11.gz
+File Number:  12
+Name:  hashtagDemographics_2018-11-12.gz
+File Number:  13
+Name:  hashtagDemographics_2018-11-13.gz
+File Number:  14
+Name:  hashtagDemographics_2018-11-14.gz
+File Number:  15
+Name:  hashtagDemographics_2018-11-15.gz
+File Number:  16
+Name:  hashtagDemographics_2018-11-16.gz
+File Number:  17
+Name:  hashtagDemographics_2018-11-17.gz
+File Number:  18
+Name:  hashtagDemographics_2018-11-18.gz
+File Number:  19
+Name:  hashtagDemographics_2018-11-19.gz
+File Number:  20
+Name:  hashtagDemographics_2018-11-20.gz
+File Number:  21
+Name:  hashtagDemographics_2018-11-21.gz
+File Number:  22
+Name:  hashtagDemographics_2018-11-22.gz
+File Number:  23
+Name:  hashtagDemographics_2018-11-23.gz
+File Number:  24
+Name:  hashtagDemographics_2018-11-24.gz
+File Number:  25
+Name:  hashtagDemographics_2018-11-25.gz
+File Number:  26
+Name:  hashtagDemographics_2018-11-26.gz
+File Number:  27
+Name:  hashtagDemographics_2018-11-27.gz
+File Number:  28
+Name:  hashtagDemographics_2018-11-28.gz
+File Number:  29
+Name:  hashtagDemographics_2018-11-29.gz
+File Number:  30
+Name:  hashtagDemographics_2018-11-30.gz
+File Number:  31
+Name:  hashtagDemographics_2018-12-01.gz
+File Number:  32
+Name:  hashtagDemographics_2018-12-02.gz
+File Number:  33
+Name:  hashtagDemographics_2018-12-03.gz
+File Number:  34
+Name:  hashtagDemographics_2018-12-04.gz
+File Number:  35
+Name:  hashtagDemographics_2018-12-05.gz
+File Number:  36
+Name:  hashtagDemographics_2018-12-06.gz
+File Number:  37
+Name:  hashtagDemographics_2018-12-07.gz
+File Number:  38
+Name:  hashtagDemographics_2018-12-08.gz
+File Number:  39
+Name:  hashtagDemographics_2018-12-09.gz
+File Number:  40
+Name:  hashtagDemographics_2018-12-10.gz
+File Number:  41
+Name:  hashtagDemographics_2018-12-11.gz
+File Number:  42
+Name:  hashtagDemographics_2018-12-12.gz
+File Number:  43
+Name:  hashtagDemographics_2018-12-13.gz
+File Number:  44
+Name:  hashtagDemographics_2018-12-14.gz
+File Number:  45
+Name:  hashtagDemographics_2018-12-15.gz
+File Number:  46
+Name:  hashtagDemographics_2018-12-16.gz
+File Number:  47
+Name:  hashtagDemographics_2018-12-17.gz
+File Number:  48
+Name:  hashtagDemographics_2018-12-18.gz
+File Number:  49
+Name:  hashtagDemographics_2018-12-19.gz
+File Number:  50
+Name:  hashtagDemographics_2018-12-20.gz
+File Number:  51
+Name:  hashtagDemographics_2018-12-21.gz
+File Number:  52
+Name:  hashtagDemographics_2018-12-22.gz
+File Number:  53
+Name:  hashtagDemographics_2018-12-23.gz
+File Number:  54
+Name:  hashtagDemographics_2018-12-24.gz
+File Number:  55
+Name:  hashtagDemographics_2018-12-25.gz
+File Number:  56
+Name:  hashtagDemographics_2018-12-26.gz
+File Number:  57
+Name:  hashtagDemographics_2018-12-27.gz
+File Number:  58
+Name:  hashtagDemographics_2018-12-28.gz
+File Number:  59
+Name:  hashtagDemographics_2018-12-29.gz
+File Number:  60
+Name:  hashtagDemographics_2018-12-30.gz
+File Number:  61
+Name:  hashtagDemographics_2018-12-31.gz
+File Number:  62
+Name:  hashtagDemographics_2019-01-01.gz
+File Number:  63
+Name:  hashtagDemographics_2019-01-02.gz
+File Number:  64
+Name:  hashtagDemographics_2019-01-03.gz
+File Number:  65
+Name:  hashtagDemographics_2019-01-04.gz
+File Number:  66
+Name:  hashtagDemographics_2019-01-05.gz
+File Number:  67
+Name:  hashtagDemographics_2019-01-06.gz
+File Number:  68
+Name:  hashtagDemographics_2019-01-07.gz
+File Number:  69
+Name:  hashtagDemographics_2019-01-08.gz
+File Number:  70
+Name:  hashtagDemographics_2019-01-09.gz
+File Number:  71
+Name:  hashtagDemographics_2019-01-10.gz
+File Number:  72
+Name:  hashtagDemographics_2019-01-11.gz
+File Number:  73
+Name:  hashtagDemographics_2019-01-12.gz
+File Number:  74
+Name:  hashtagDemographics_2019-01-13.gz
+File Number:  75
+Name:  hashtagDemographics_2019-01-14.gz
+File Number:  76
+Name:  hashtagDemographics_2019-01-15.gz
+File Number:  77
+Name:  hashtagDemographics_2019-01-16.gz
+File Number:  78
+Name:  hashtagDemographics_2019-01-17.gz
+File Number:  79
+Name:  hashtagDemographics_2019-01-18.gz
+File Number:  80
+Name:  hashtagDemographics_2019-01-19.gz
+File Number:  81
+Name:  hashtagDemographics_2019-01-20.gz
+File Number:  82
+Name:  hashtagDemographics_2019-01-21.gz
+File Number:  83
+Name:  hashtagDemographics_2019-01-22.gz
+File Number:  84
+Name:  hashtagDemographics_2019-01-23.gz
+File Number:  85
+Name:  hashtagDemographics_2019-01-24.gz
+File Number:  86
+Name:  hashtagDemographics_2019-01-25.gz
+File Number:  87
+Name:  hashtagDemographics_2019-01-26.gz
+File Number:  88
+Name:  hashtagDemographics_2019-01-27.gz
+File Number:  89
+Name:  hashtagDemographics_2019-01-28.gz
+File Number:  90
+Name:  hashtagDemographics_2019-01-29.gz
+File Number:  91
+Name:  hashtagDemographics_2019-01-30.gz
+File Number:  92
+Name:  hashtagDemographics_2019-01-31.gz
+<./Demographics_Count/Gender_Count_User_Demographics.gz>:::::Written
+<./Demographics_Count/Race_Count_User_Demographics.gz>:::::Written
+<./Demographics_Count/Age_Count_User_Demographics.gz>:::::Written
+Elapsed Time
+--- 7.235578298568726 seconds ---
+<./Demographics_Percentages/Gender_Percentage_User_Demographics.gz>:::::Written
+<./Demographics_Percentages/Race_Percentage_User_Demographics.gz>:::::Written
+<./Demographics_Percentages/Age_Percentage_User_Demographics.gz>:::::Written
+Elapsed Time
+--- 0.9205231666564941 seconds ---
+<./Hashtags_Tweets_Counts/Sorted_Dictionary.gz>:::::Written
+Elapsed Time
+--- 0.23153114318847656 seconds ---
+GENDER_CLUSTERS_HASHTAGS_COUNTS
+[65.454, 34.546] :  7140
+[7.302, 92.698] :  3523
+[93.219, 6.781] :  5507
+[40.681, 59.319] :  6165
+
+RACE_CLUSTERS_HASHTAGS_COUNTS
+[47.859, 39.546, 12.594] :  2270
+[94.027, 2.995, 2.978] :  9616
+[71.914, 11.818, 16.269] :  8307
+[13.254, 3.472, 83.274] :  1039
+[6.397, 90.761, 2.842] :  1103
+
+AGE_CLUSTERS_HASHTAGS_COUNTS
+[9.701, 54.251, 34.995] :  4299
+[82.751, 13.614, 3.528] :  1354
+[21.521, 66.299, 11.921] :  8712
+[2.238, 9.423, 88.202] :  1199
+[3.217, 92.44, 4.243] :  6771
+
+
+#########################################
+GENDER [MALE, FEMALE]
+
+CLUSTER:  0 :  [65.454, 34.546]
+Repost  :::  19286.0
+Christmas  :::  11347.0
+Trump  :::  11094.0
+MAGA  :::  10996.0
+nyc  :::  9969.0
+art  :::  9850.0
+music  :::  9749.0
+tbt  :::  9409.0
+FlyEaglesFly  :::  7862.0
+RAW  :::  7809.0
+TrumpResign  :::  7808.0
+KylerMurray  :::  7667.0
+TrumpShutdown  :::  7547.0
+
+CLUSTER:  1 :  [7.302, 92.698]
+TheBachelor  :::  6021.0
+Resist  :::  3414.0
+PSJHJobs  :::  2844.0
+TWD  :::  2791.0
+Outlander  :::  1856.0
+Supernatural  :::  1785.0
+Tatiana  :::  1568.0
+momlife  :::  1437.0
+thewalkingdead  :::  1265.0
+hiring  :::  1262.0
+TWDFamily  :::  1183.0
+Timeless  :::  1070.0
+iamup  :::  970.0
+
+CLUSTER:  2 :  [93.219, 6.781]
+NFL  :::  7250.0
+Eagles  :::  4794.0
+NBA  :::  4620.0
+hiphop  :::  4602.0
+Cowboys  :::  3760.0
+Bears  :::  3288.0
+Packers  :::  3002.0
+Jets  :::  2897.0
+Sabres  :::  2730.0
+WWE  :::  2693.0
+LSU  :::  2624.0
+NXTTakeOver  :::  2107.0
+WeTheNorth  :::  2020.0
+
+CLUSTER:  3 :  [40.681, 59.319]
+love  :::  14377.0
+christmas  :::  11437.0
+MyTwitterAnniversary  :::  10708.0
+family  :::  10134.0
+HappyNewYear  :::  9300.0
+NewProfilePic  :::  7980.0
+blessed  :::  7584.0
+vote  :::  7024.0
+ElectionDay  :::  6696.0
+SurvivingRKelly  :::  6275.0
+merrychristmas  :::  5946.0
+LivePD  :::  5898.0
+thanksgiving  :::  5589.0
+
+
+#########################################
+RACE [WHITE, BLACK, ASIAN]
+
+CLUSTER:  0 :  [47.859, 39.546, 12.594]
+Repost  :::  19286.0
+music  :::  9749.0
+SurvivingRKelly  :::  6275.0
+BirdBox  :::  4886.0
+RHOA  :::  4881.0
+hiphop  :::  4602.0
+np  :::  4257.0
+SoundCloud  :::  3752.0
+NowPlaying  :::  3550.0
+LakeShow  :::  3332.0
+Aquaman  :::  3135.0
+model  :::  2877.0
+rap  :::  2767.0
+
+CLUSTER:  1 :  [94.027, 2.995, 2.978]
+Trump  :::  11094.0
+LivePD  :::  5898.0
+realestate  :::  5421.0
+sunset  :::  5102.0
+dogsofinstagram  :::  4047.0
+AVN  :::  3695.0
+catsofinstagram  :::  3056.0
+Packers  :::  3002.0
+sunrise  :::  2941.0
+job  :::  2868.0
+PSJHJobs  :::  2844.0
+WillGrier  :::  2839.0
+BREAKING  :::  2788.0
+
+CLUSTER:  2 :  [71.914, 11.818, 16.269]
+love  :::  14377.0
+christmas  :::  11437.0
+Christmas  :::  11347.0
+MAGA  :::  10996.0
+MyTwitterAnniversary  :::  10708.0
+family  :::  10134.0
+nyc  :::  9969.0
+art  :::  9850.0
+tbt  :::  9409.0
+HappyNewYear  :::  9300.0
+NewProfilePic  :::  7980.0
+FlyEaglesFly  :::  7862.0
+RAW  :::  7809.0
+
+CLUSTER:  3 :  [13.254, 3.472, 83.274]
+Resist  :::  3414.0
+FallonTonight  :::  1478.0
+thewalkingdead  :::  1265.0
+Raptors  :::  1257.0
+TWDFamily  :::  1183.0
+FBR  :::  823.0
+CelebrityBigBrother  :::  551.0
+Comedy  :::  436.0
+LOL  :::  412.0
+ChicagoFire  :::  404.0
+PRU  :::  391.0
+shoutout  :::  335.0
+Funny  :::  259.0
+
+CLUSTER:  4 :  [6.397, 90.761, 2.842]
+sneakerhead  :::  1351.0
+producerlife  :::  1118.0
+bang  :::  1090.0
+NCAT  :::  1070.0
+WomanCrushWednesday  :::  1017.0
+carlover  :::  850.0
+dope  :::  615.0
+GUHHATL  :::  480.0
+myasu  :::  478.0
+DrakeVsFuture2  :::  445.0
+CrazyYoo  :::  418.0
+TripleDDetox18  :::  404.0
+grownish  :::  389.0
+
+
+#########################################
+AGE ['-20', '65+', '20-40', '40-65']
+
+CLUSTER:  0 :  [9.701, 54.251, 34.995]
+Trump  :::  11094.0
+MAGA  :::  10996.0
+TrumpResign  :::  7808.0
+TrumpShutdown  :::  7547.0
+NFL  :::  7250.0
+LivePD  :::  5898.0
+realestate  :::  5421.0
+Eagles  :::  4794.0
+NBA  :::  4620.0
+Florida  :::  4146.0
+AVN  :::  3695.0
+Aquaman  :::  3135.0
+sunrise  :::  2941.0
+
+CLUSTER:  1 :  [82.751, 13.614, 3.528]
+TheView  :::  1789.0
+Raptors  :::  1257.0
+Restaurant  :::  727.0
+FLYEAGLESFLY  :::  551.0
+CelebrityBigBrother  :::  551.0
+DealOrNoDeal  :::  525.0
+HellsKitchen  :::  509.0
+ChicagoMed  :::  468.0
+DrakeVsFuture2  :::  445.0
+CrazyYoo  :::  418.0
+flickr  :::  395.0
+canon_official  :::  393.0
+canon5dmk3  :::  393.0
+
+CLUSTER:  2 :  [21.521, 66.299, 11.921]
+Repost  :::  19286.0
+love  :::  14377.0
+christmas  :::  11437.0
+Christmas  :::  11347.0
+MyTwitterAnniversary  :::  10708.0
+family  :::  10134.0
+nyc  :::  9969.0
+art  :::  9850.0
+music  :::  9749.0
+tbt  :::  9409.0
+HappyNewYear  :::  9300.0
+NewProfilePic  :::  7980.0
+FlyEaglesFly  :::  7862.0
+
+CLUSTER:  3 :  [2.238, 9.423, 88.202]
+Resist  :::  3414.0
+sketch  :::  1311.0
+KeepFighting  :::  1142.0
+WomanCrushWednesday  :::  1017.0
+TrumpFascism  :::  827.0
+FBR  :::  823.0
+Louder  :::  742.0
+etsyaaa  :::  583.0
+TrumpPence2020  :::  497.0
+PRU  :::  391.0
+ataresults  :::  389.0
+ValentineGifts  :::  345.0
+berksgameday  :::  334.0
+
+CLUSTER:  4 :  [3.217, 92.44, 4.243]
+PSJHJobs  :::  2844.0
+TWD  :::  2791.0
+Titans  :::  2311.0
+vegas  :::  2217.0
+ALLCAPS  :::  1621.0
+Tatiana  :::  1568.0
+film  :::  1558.0
+FallonTonight  :::  1478.0
+GoCougs  :::  1365.0
+sneakerhead  :::  1351.0
+tech  :::  1292.0
+thewalkingdead  :::  1265.0
+TWDFamily  :::  1183.0
+<./Clusters_Demographics/Gender_Clusters.gz>:::::Written
+<./Clusters_Demographics/Race_Clusters.gz>:::::Written
+<./Clusters_Demographics/Age_Clusters.gz>:::::Written
+Elapsed Time
+--- 12.551237106323242 seconds ---
+Total Files:  92
+File Number:  1
+Name:  hashtagUsageInfoEvery15Mins_2018-11-01.gz
+File Number:  2
+Name:  hashtagUsageInfoEvery15Mins_2018-11-02.gz
+File Number:  3
+Name:  hashtagUsageInfoEvery15Mins_2018-11-03.gz
+File Number:  4
+Name:  hashtagUsageInfoEvery15Mins_2018-11-04.gz
+File Number:  5
+Name:  hashtagUsageInfoEvery15Mins_2018-11-05.gz
+File Number:  6
+Name:  hashtagUsageInfoEvery15Mins_2018-11-06.gz
+File Number:  7
+Name:  hashtagUsageInfoEvery15Mins_2018-11-07.gz
+File Number:  8
+Name:  hashtagUsageInfoEvery15Mins_2018-11-08.gz
+File Number:  9
+Name:  hashtagUsageInfoEvery15Mins_2018-11-09.gz
+File Number:  10
+Name:  hashtagUsageInfoEvery15Mins_2018-11-10.gz
+File Number:  11
+Name:  hashtagUsageInfoEvery15Mins_2018-11-11.gz
+File Number:  12
+Name:  hashtagUsageInfoEvery15Mins_2018-11-12.gz
+File Number:  13
+Name:  hashtagUsageInfoEvery15Mins_2018-11-13.gz
+File Number:  14
+Name:  hashtagUsageInfoEvery15Mins_2018-11-14.gz
+File Number:  15
+Name:  hashtagUsageInfoEvery15Mins_2018-11-15.gz
+File Number:  16
+Name:  hashtagUsageInfoEvery15Mins_2018-11-16.gz
+File Number:  17
+Name:  hashtagUsageInfoEvery15Mins_2018-11-17.gz
+File Number:  18
+Name:  hashtagUsageInfoEvery15Mins_2018-11-18.gz
+File Number:  19
+Name:  hashtagUsageInfoEvery15Mins_2018-11-19.gz
+File Number:  20
+Name:  hashtagUsageInfoEvery15Mins_2018-11-20.gz
+File Number:  21
+Name:  hashtagUsageInfoEvery15Mins_2018-11-21.gz
+File Number:  22
+Name:  hashtagUsageInfoEvery15Mins_2018-11-22.gz
+File Number:  23
+Name:  hashtagUsageInfoEvery15Mins_2018-11-23.gz
+File Number:  24
+Name:  hashtagUsageInfoEvery15Mins_2018-11-24.gz
+File Number:  25
+Name:  hashtagUsageInfoEvery15Mins_2018-11-25.gz
+File Number:  26
+Name:  hashtagUsageInfoEvery15Mins_2018-11-26.gz
+File Number:  27
+Name:  hashtagUsageInfoEvery15Mins_2018-11-27.gz
+File Number:  28
+Name:  hashtagUsageInfoEvery15Mins_2018-11-28.gz
+File Number:  29
+Name:  hashtagUsageInfoEvery15Mins_2018-11-29.gz
+File Number:  30
+Name:  hashtagUsageInfoEvery15Mins_2018-11-30.gz
+File Number:  31
+Name:  hashtagUsageInfoEvery15Mins_2018-12-01.gz
+File Number:  32
+Name:  hashtagUsageInfoEvery15Mins_2018-12-02.gz
+File Number:  33
+Name:  hashtagUsageInfoEvery15Mins_2018-12-03.gz
+File Number:  34
+Name:  hashtagUsageInfoEvery15Mins_2018-12-04.gz
+File Number:  35
+Name:  hashtagUsageInfoEvery15Mins_2018-12-05.gz
+File Number:  36
+Name:  hashtagUsageInfoEvery15Mins_2018-12-06.gz
+File Number:  37
+Name:  hashtagUsageInfoEvery15Mins_2018-12-07.gz
+File Number:  38
+Name:  hashtagUsageInfoEvery15Mins_2018-12-08.gz
+File Number:  39
+Name:  hashtagUsageInfoEvery15Mins_2018-12-09.gz
+File Number:  40
+Name:  hashtagUsageInfoEvery15Mins_2018-12-10.gz
+File Number:  41
+Name:  hashtagUsageInfoEvery15Mins_2018-12-11.gz
+File Number:  42
+Name:  hashtagUsageInfoEvery15Mins_2018-12-12.gz
+File Number:  43
+Name:  hashtagUsageInfoEvery15Mins_2018-12-13.gz
+File Number:  44
+Name:  hashtagUsageInfoEvery15Mins_2018-12-14.gz
+File Number:  45
+Name:  hashtagUsageInfoEvery15Mins_2018-12-15.gz
+File Number:  46
+Name:  hashtagUsageInfoEvery15Mins_2018-12-16.gz
+File Number:  47
+Name:  hashtagUsageInfoEvery15Mins_2018-12-17.gz
+File Number:  48
+Name:  hashtagUsageInfoEvery15Mins_2018-12-18.gz
+File Number:  49
+Name:  hashtagUsageInfoEvery15Mins_2018-12-19.gz
+File Number:  50
+Name:  hashtagUsageInfoEvery15Mins_2018-12-20.gz
+File Number:  51
+Name:  hashtagUsageInfoEvery15Mins_2018-12-21.gz
+File Number:  52
+Name:  hashtagUsageInfoEvery15Mins_2018-12-22.gz
+File Number:  53
+Name:  hashtagUsageInfoEvery15Mins_2018-12-23.gz
+File Number:  54
+Name:  hashtagUsageInfoEvery15Mins_2018-12-24.gz
+File Number:  55
+Name:  hashtagUsageInfoEvery15Mins_2018-12-25.gz
+File Number:  56
+Name:  hashtagUsageInfoEvery15Mins_2018-12-26.gz
+File Number:  57
+Name:  hashtagUsageInfoEvery15Mins_2018-12-27.gz
+File Number:  58
+Name:  hashtagUsageInfoEvery15Mins_2018-12-28.gz
+File Number:  59
+Name:  hashtagUsageInfoEvery15Mins_2018-12-29.gz
+File Number:  60
+Name:  hashtagUsageInfoEvery15Mins_2018-12-30.gz
+File Number:  61
+Name:  hashtagUsageInfoEvery15Mins_2018-12-31.gz
+File Number:  62
+Name:  hashtagUsageInfoEvery15Mins_2019-01-01.gz
+File Number:  63
+Name:  hashtagUsageInfoEvery15Mins_2019-01-02.gz
+File Number:  64
+Name:  hashtagUsageInfoEvery15Mins_2019-01-03.gz
+File Number:  65
+Name:  hashtagUsageInfoEvery15Mins_2019-01-04.gz
+File Number:  66
+Name:  hashtagUsageInfoEvery15Mins_2019-01-05.gz
+File Number:  67
+Name:  hashtagUsageInfoEvery15Mins_2019-01-06.gz
+File Number:  68
+Name:  hashtagUsageInfoEvery15Mins_2019-01-07.gz
+File Number:  69
+Name:  hashtagUsageInfoEvery15Mins_2019-01-08.gz
+File Number:  70
+Name:  hashtagUsageInfoEvery15Mins_2019-01-09.gz
+File Number:  71
+Name:  hashtagUsageInfoEvery15Mins_2019-01-10.gz
+File Number:  72
+Name:  hashtagUsageInfoEvery15Mins_2019-01-11.gz
+File Number:  73
+Name:  hashtagUsageInfoEvery15Mins_2019-01-12.gz
+File Number:  74
+Name:  hashtagUsageInfoEvery15Mins_2019-01-13.gz
+File Number:  75
+Name:  hashtagUsageInfoEvery15Mins_2019-01-14.gz
+File Number:  76
+Name:  hashtagUsageInfoEvery15Mins_2019-01-15.gz
+File Number:  77
+Name:  hashtagUsageInfoEvery15Mins_2019-01-16.gz
+File Number:  78
+Name:  hashtagUsageInfoEvery15Mins_2019-01-17.gz
+File Number:  79
+Name:  hashtagUsageInfoEvery15Mins_2019-01-18.gz
+File Number:  80
+Name:  hashtagUsageInfoEvery15Mins_2019-01-19.gz
+File Number:  81
+Name:  hashtagUsageInfoEvery15Mins_2019-01-20.gz
+File Number:  82
+Name:  hashtagUsageInfoEvery15Mins_2019-01-21.gz
+File Number:  83
+Name:  hashtagUsageInfoEvery15Mins_2019-01-22.gz
+File Number:  84
+Name:  hashtagUsageInfoEvery15Mins_2019-01-23.gz
+File Number:  85
+Name:  hashtagUsageInfoEvery15Mins_2019-01-24.gz
+File Number:  86
+Name:  hashtagUsageInfoEvery15Mins_2019-01-25.gz
+File Number:  87
+Name:  hashtagUsageInfoEvery15Mins_2019-01-26.gz
+File Number:  88
+Name:  hashtagUsageInfoEvery15Mins_2019-01-27.gz
+File Number:  89
+Name:  hashtagUsageInfoEvery15Mins_2019-01-28.gz
+File Number:  90
+Name:  hashtagUsageInfoEvery15Mins_2019-01-29.gz
+File Number:  91
+Name:  hashtagUsageInfoEvery15Mins_2019-01-30.gz
+File Number:  92
+Name:  hashtagUsageInfoEvery15Mins_2019-01-31.gz
+9448
+<./Usage_Trend_15Min/Gender_Trending.gz>:::::Written
+<./Usage_Trend_15Min/Race_Trending.gz>:::::Written
+<./Usage_Trend_15Min/Age_Trending.gz>:::::Written
+Elapsed Time
+--- 38.98788833618164 seconds ---
+GENDER_CLUSTERS_HASHTAGS_COUNTS
+[44.014, 55.986] :  2115
+[91.658, 8.342] :  1520
+[8.562, 91.438] :  958
+[66.659, 33.341] :  2481
+
+RACE_CLUSTERS_HASHTAGS_COUNTS
+[73.003, 12.753, 14.245] :  3179
+[7.942, 88.435, 3.623] :  303
+[11.016, 2.656, 86.328] :  291
+[92.668, 3.398, 3.934] :  2582
+[49.726, 35.263, 15.011] :  719
+
+AGE_CLUSTERS_HASHTAGS_COUNTS
+[19.167, 67.322, 13.279] :  3740
+[11.113, 54.013, 33.891] :  1213
+[2.113, 8.605, 89.101] :  305
+[81.354, 15.467, 3.127] :  369
+[3.493, 92.636, 3.807] :  1447
+
+
+#########################################
+GENDER [MALE, FEMALE]
+
+CLUSTER:  0 :  [44.014, 55.986]
+love  :::  14377.0
+christmas  :::  11437.0
+MyTwitterAnniversary  :::  10708.0
+family  :::  10134.0
+tbt  :::  9409.0
+HappyNewYear  :::  9300.0
+NewProfilePic  :::  7980.0
+blessed  :::  7584.0
+vote  :::  7024.0
+ElectionDay  :::  6696.0
+SurvivingRKelly  :::  6275.0
+travel  :::  6263.0
+merrychristmas  :::  5946.0
+
+CLUSTER:  1 :  [91.658, 8.342]
+NFL  :::  7250.0
+Browns  :::  5665.0
+Eagles  :::  4794.0
+NBA  :::  4620.0
+hiphop  :::  4602.0
+Chiefs  :::  3900.0
+Cowboys  :::  3760.0
+Bears  :::  3288.0
+Packers  :::  3002.0
+Jets  :::  2897.0
+Sabres  :::  2730.0
+WWE  :::  2693.0
+LSU  :::  2624.0
+
+CLUSTER:  2 :  [8.562, 91.438]
+TheBachelor  :::  6021.0
+Resist  :::  3414.0
+90DayFiance  :::  3071.0
+job  :::  2868.0
+TWD  :::  2791.0
+Outlander  :::  1856.0
+makeup  :::  1789.0
+Supernatural  :::  1785.0
+ootd  :::  1723.0
+GreysAnatomy  :::  1642.0
+thewalkingdead  :::  1265.0
+hiring  :::  1262.0
+TWDFamily  :::  1183.0
+
+CLUSTER:  3 :  [66.659, 33.341]
+Repost  :::  19286.0
+Christmas  :::  11347.0
+Trump  :::  11094.0
+MAGA  :::  10996.0
+nyc  :::  9969.0
+art  :::  9850.0
+music  :::  9749.0
+FlyEaglesFly  :::  7862.0
+RAW  :::  7809.0
+TrumpResign  :::  7808.0
+KylerMurray  :::  7667.0
+TrumpShutdown  :::  7547.0
+RollTide  :::  7519.0
+
+
+#########################################
+RACE [WHITE, BLACK, ASIAN]
+
+CLUSTER:  0 :  [73.003, 12.753, 14.245]
+love  :::  14377.0
+christmas  :::  11437.0
+Christmas  :::  11347.0
+MAGA  :::  10996.0
+MyTwitterAnniversary  :::  10708.0
+family  :::  10134.0
+nyc  :::  9969.0
+art  :::  9850.0
+tbt  :::  9409.0
+HappyNewYear  :::  9300.0
+NewProfilePic  :::  7980.0
+FlyEaglesFly  :::  7862.0
+RAW  :::  7809.0
+
+CLUSTER:  1 :  [7.942, 88.435, 3.623]
+sneakerhead  :::  1351.0
+NCAT  :::  1070.0
+WomanCrushWednesday  :::  1017.0
+ncat  :::  848.0
+BlackLightning  :::  669.0
+dope  :::  615.0
+GUHHATL  :::  480.0
+myasu  :::  478.0
+LoveAfterLockup  :::  459.0
+DrakeVsFuture2  :::  445.0
+BlackTwitter  :::  432.0
+CrazyYoo  :::  418.0
+TripleDDetox18  :::  404.0
+
+CLUSTER:  2 :  [11.016, 2.656, 86.328]
+Resist  :::  3414.0
+FallonTonight  :::  1478.0
+thewalkingdead  :::  1265.0
+Raptors  :::  1257.0
+TWDFamily  :::  1183.0
+CelebrityBigBrother  :::  551.0
+Comedy  :::  436.0
+ChicagoFire  :::  404.0
+PRU  :::  391.0
+Funny  :::  259.0
+RoadTripChat  :::  245.0
+CrunchClassicEntry  :::  238.0
+BBCELEB  :::  209.0
+
+CLUSTER:  3 :  [92.668, 3.398, 3.934]
+Trump  :::  11094.0
+LivePD  :::  5898.0
+realestate  :::  5421.0
+sunset  :::  5102.0
+dogsofinstagram  :::  4047.0
+AVN  :::  3695.0
+catsofinstagram  :::  3056.0
+Packers  :::  3002.0
+sunrise  :::  2941.0
+job  :::  2868.0
+WillGrier  :::  2839.0
+BREAKING  :::  2788.0
+Sabres  :::  2730.0
+
+CLUSTER:  4 :  [49.726, 35.263, 15.011]
+Repost  :::  19286.0
+music  :::  9749.0
+SurvivingRKelly  :::  6275.0
+BirdBox  :::  4886.0
+RHOA  :::  4881.0
+TBT  :::  4773.0
+hiphop  :::  4602.0
+np  :::  4257.0
+SoundCloud  :::  3752.0
+WhoDat  :::  3596.0
+NowPlaying  :::  3550.0
+life  :::  3547.0
+LakeShow  :::  3332.0
+
+
+#########################################
+AGE ['-20', '65+', '20-40', '40-65']
+
+CLUSTER:  0 :  [19.167, 67.322, 13.279]
+Repost  :::  19286.0
+love  :::  14377.0
+christmas  :::  11437.0
+Christmas  :::  11347.0
+MyTwitterAnniversary  :::  10708.0
+family  :::  10134.0
+nyc  :::  9969.0
+art  :::  9850.0
+music  :::  9749.0
+tbt  :::  9409.0
+HappyNewYear  :::  9300.0
+NewProfilePic  :::  7980.0
+FlyEaglesFly  :::  7862.0
+
+CLUSTER:  1 :  [11.113, 54.013, 33.891]
+Trump  :::  11094.0
+MAGA  :::  10996.0
+TrumpResign  :::  7808.0
+TrumpShutdown  :::  7547.0
+NFL  :::  7250.0
+LivePD  :::  5898.0
+realestate  :::  5421.0
+NBA  :::  4620.0
+Florida  :::  4146.0
+AVN  :::  3695.0
+Aquaman  :::  3135.0
+sunrise  :::  2941.0
+Jets  :::  2897.0
+
+CLUSTER:  2 :  [2.113, 8.605, 89.101]
+Resist  :::  3414.0
+KeepFighting  :::  1142.0
+WomanCrushWednesday  :::  1017.0
+TrumpFascism  :::  827.0
+FBR  :::  823.0
+Louder  :::  742.0
+etsyaaa  :::  583.0
+TrumpPence2020  :::  497.0
+PRU  :::  391.0
+ValentineGifts  :::  345.0
+berksgameday  :::  334.0
+Archives  :::  327.0
+HATM  :::  297.0
+
+CLUSTER:  3 :  [81.354, 15.467, 3.127]
+TheView  :::  1789.0
+Raptors  :::  1257.0
+Restaurant  :::  727.0
+edm  :::  701.0
+FLYEAGLESFLY  :::  551.0
+CelebrityBigBrother  :::  551.0
+DealOrNoDeal  :::  525.0
+HellsKitchen  :::  509.0
+ChicagoMed  :::  468.0
+DrakeVsFuture2  :::  445.0
+CrazyYoo  :::  418.0
+flickr  :::  395.0
+canon_official  :::  393.0
+
+CLUSTER:  4 :  [3.493, 92.636, 3.807]
+TWD  :::  2791.0
+Titans  :::  2311.0
+vegas  :::  2217.0
+ALLCAPS  :::  1621.0
+FallonTonight  :::  1478.0
+GoCougs  :::  1365.0
+sneakerhead  :::  1351.0
+tech  :::  1292.0
+thewalkingdead  :::  1265.0
+TWDFamily  :::  1183.0
+SJSharks  :::  1124.0
+Sixers  :::  1122.0
+NCTE18  :::  1059.0
+<./Clusters_TrendUsage_Demographics/Gender_Trend_Clusters.gz>:::::Written
+<./Clusters_TrendUsage_Demographics/Race_Trend_Clusters.gz>:::::Written
+<./Clusters_TrendUsage_Demographics/Age_Trend_Clusters.gz>:::::Written
+Elapsed Time
+--- 3.856912136077881 seconds ---
+
+<<< demo_data_Read.py >>> ran with exit code 0 
+
+
+<<< demo_percentages.py >>> ran with exit code 0 
+
+
+<<< demo_data_Read.py >>> ran with exit code 0 
+
+
+<<< demo_data_Read.py >>> ran with exit code 0 
+
+
+<<< trend_usage_Data_read.py >>> ran with exit code 0 
+
+
+<<< trend_usage_kmeans_15mins_clus.py >>> ran with exit code 0 
+
+
+Entire Module Ran Successfully: 
+#################################
+
+
+Total Elapsed Time
+--- 66.6514458656311 seconds ---
+
