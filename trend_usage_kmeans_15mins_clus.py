@@ -143,13 +143,13 @@ T3.close()
 stats_age = json.loads(demo_age_temp)
 
 dataset_g = stats_gender
-n_clus_g = 5
+n_clus_g = 4
 
 dataset_r = stats_race
-n_clus_r = 7
+n_clus_r = 5
 
 dataset_a = removingOldAge(stats_age)
-n_clus_a = 7
+n_clus_a = 5
 
 
 df_g, centroids_g, clusterDetails_g, labels_g, hashtag_names_g = clustering (dataset_g, n_clus_g)
