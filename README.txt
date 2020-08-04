@@ -1,6 +1,13 @@
 Part(1): Supervised by Dr. Abhijnan Chakraborty (MPI-SWS, Saarbrücken, Germany)
 
+Optimum Number of Clusters were determined by running the code in the following repository:
 
+https://github.com/waleedahmed90/Optimum-Clusters-Elbow-method
+
+The optimum number of clusters come out to be the following:
+Gender = 4
+Race = 5
+Age = 5
 
 Running "python driver.py" will result in the following execution order
 
